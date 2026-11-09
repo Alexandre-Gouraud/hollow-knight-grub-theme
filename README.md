@@ -34,7 +34,7 @@
 Install the files:
 ```bash
 # Clone this repository
-git clone https://github.com/Alexandre-git-SDV/hollow-knight-grub-theme.git
+git clone https://github.com/Alexandre-Gouraud/hollow-knight-grub-theme.git
 
 # Go into the repository
 cd hollow-knight-grub-theme
@@ -82,7 +82,7 @@ Un thème pour le chargeur de démarrage GRUB inspiré du menu principal de Holl
 Installer les fichiers :
 ```bash
 # Cloner ce dépôt
-git clone https://github.com/Alexandre-git-SDV/hollow-knight-grub-theme.git
+git clone https://github.com/Alexandre-Gouraud/hollow-knight-grub-theme.git
 
 # Aller dans le dépôt
 cd hollow-knight-grub-theme
